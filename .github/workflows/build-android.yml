@@ -23,11 +23,24 @@ jobs:
             zip unzip git \
             openjdk-17-jdk \
             build-essential autoconf automake libtool pkg-config \
-            libffi-dev libssl-dev
+            libffi-dev libssl-dev \
+            wget
 
-      # ✅ Ставит Android SDK + sdkmanager и добавляет в PATH
-      - name: Set up Android SDK
-        uses: android-actions/setup-android@v3
+      - name: Install Android commandline tools (sdkmanager)
+        run: |
+          export ANDROID_SDK_ROOT="$HOME/android-sdk"
+          mkdir -p "$ANDROID_SDK_ROOT/cmdline-tools"
+          cd "$ANDROID_SDK_ROOT/cmdline-tools"
+
+          # Android cmdline-tools (latest)
+          wget -q https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip -O cmdline-tools.zip
+          unzip -q cmdline-tools.zip
+          mv cmdline-tools latest
+          rm cmdline-tools.zip
+
+          echo "ANDROID_SDK_ROOT=$ANDROID_SDK_ROOT" >> $GITHUB_ENV
+          echo "$ANDROID_SDK_ROOT/cmdline-tools/latest/bin" >> $GITHUB_PATH
+          echo "$ANDROID_SDK_ROOT/platform-tools" >> $GITHUB_PATH
 
       - name: Install Android SDK components (incl. build-tools/aidl)
         run: |
@@ -46,7 +59,7 @@ jobs:
             buildozer init
           fi
 
-           - name: Configure buildozer.spec
+      - name: Configure buildozer.spec (pin build-tools to avoid 36.x)
         run: |
           sed -i 's/^title = .*/title = Turkish Cards/' buildozer.spec
           sed -i 's/^package.name = .*/package.name = turkishcards/' buildozer.spec
@@ -55,7 +68,7 @@ jobs:
           sed -i 's/^orientation = .*/orientation = portrait/' buildozer.spec
           sed -i 's/^source.include_exts = .*/source.include_exts = py,png,jpg,kv,json/' buildozer.spec
 
-          # ✅ фиксируем Android API и build-tools, чтобы не тянул 36.x
+          # pin versions so Buildozer won't try build-tools 36.x
           if grep -q '^android.api' buildozer.spec; then
             sed -i 's/^android.api = .*/android.api = 33/' buildozer.spec
           else
@@ -68,27 +81,16 @@ jobs:
             echo 'android.minapi = 21' >> buildozer.spec
           fi
 
-          if grep -q '^android.sdk' buildozer.spec; then
-            sed -i 's/^android.sdk = .*/android.sdk = 33/' buildozer.spec
-          else
-            echo 'android.sdk = 33' >> buildozer.spec
-          fi
-
-          if grep -q '^android.ndk' buildozer.spec; then
-            sed -i 's/^android.ndk = .*/android.ndk = 25b/' buildozer.spec
-          else
-            echo 'android.ndk = 25b' >> buildozer.spec
-          fi
-
-          # важно: build-tools
           if grep -q '^android.build_tools_version' buildozer.spec; then
             sed -i 's/^android.build_tools_version = .*/android.build_tools_version = 33.0.2/' buildozer.spec
           else
             echo 'android.build_tools_version = 33.0.2' >> buildozer.spec
           fi
 
-
       - name: Build APK
+        env:
+          ANDROID_SDK_ROOT: ${{ env.ANDROID_SDK_ROOT }}
+          ANDROID_HOME: ${{ env.ANDROID_SDK_ROOT }}
         run: |
           buildozer -v android debug
 
