@@ -25,16 +25,20 @@ jobs:
             build-essential autoconf automake libtool pkg-config \
             libffi-dev libssl-dev
 
+      # ✅ Ставит Android SDK + sdkmanager и добавляет в PATH
+      - name: Set up Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Install Android SDK components (incl. build-tools/aidl)
+        run: |
+          sdkmanager --version
+          yes | sdkmanager --licenses
+          sdkmanager "platform-tools" "platforms;android-33" "build-tools;33.0.2"
+
       - name: Install Buildozer and Cython
         run: |
           python -m pip install --upgrade pip
           pip install buildozer cython
-
-      # ВАЖНО: ставим Android SDK компоненты (включая aidl через build-tools)
-      - name: Install Android SDK components
-        run: |
-          yes | sdkmanager --licenses
-          sdkmanager "platform-tools" "platforms;android-33" "build-tools;33.0.2"
 
       - name: Initialize buildozer.spec (if missing)
         run: |
