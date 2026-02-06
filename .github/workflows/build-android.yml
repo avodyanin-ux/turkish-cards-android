@@ -46,7 +46,7 @@ jobs:
             buildozer init
           fi
 
-      - name: Configure buildozer.spec
+           - name: Configure buildozer.spec
         run: |
           sed -i 's/^title = .*/title = Turkish Cards/' buildozer.spec
           sed -i 's/^package.name = .*/package.name = turkishcards/' buildozer.spec
@@ -54,6 +54,39 @@ jobs:
           sed -i 's/^requirements = .*/requirements = python3,kivy/' buildozer.spec
           sed -i 's/^orientation = .*/orientation = portrait/' buildozer.spec
           sed -i 's/^source.include_exts = .*/source.include_exts = py,png,jpg,kv,json/' buildozer.spec
+
+          # ✅ фиксируем Android API и build-tools, чтобы не тянул 36.x
+          if grep -q '^android.api' buildozer.spec; then
+            sed -i 's/^android.api = .*/android.api = 33/' buildozer.spec
+          else
+            echo 'android.api = 33' >> buildozer.spec
+          fi
+
+          if grep -q '^android.minapi' buildozer.spec; then
+            sed -i 's/^android.minapi = .*/android.minapi = 21/' buildozer.spec
+          else
+            echo 'android.minapi = 21' >> buildozer.spec
+          fi
+
+          if grep -q '^android.sdk' buildozer.spec; then
+            sed -i 's/^android.sdk = .*/android.sdk = 33/' buildozer.spec
+          else
+            echo 'android.sdk = 33' >> buildozer.spec
+          fi
+
+          if grep -q '^android.ndk' buildozer.spec; then
+            sed -i 's/^android.ndk = .*/android.ndk = 25b/' buildozer.spec
+          else
+            echo 'android.ndk = 25b' >> buildozer.spec
+          fi
+
+          # важно: build-tools
+          if grep -q '^android.build_tools_version' buildozer.spec; then
+            sed -i 's/^android.build_tools_version = .*/android.build_tools_version = 33.0.2/' buildozer.spec
+          else
+            echo 'android.build_tools_version = 33.0.2' >> buildozer.spec
+          fi
+
 
       - name: Build APK
         run: |
