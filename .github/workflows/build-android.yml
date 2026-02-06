@@ -37,10 +37,14 @@ jobs:
           rm cmdline-tools.zip
 
           echo "ANDROID_SDK_ROOT=$ANDROID_SDK_ROOT" >> $GITHUB_ENV
+          echo "ANDROID_HOME=$ANDROID_SDK_ROOT" >> $GITHUB_ENV
           echo "$ANDROID_SDK_ROOT/cmdline-tools/latest/bin" >> $GITHUB_PATH
           echo "$ANDROID_SDK_ROOT/platform-tools" >> $GITHUB_PATH
 
       - name: Install Android SDK components (incl. build-tools/aidl + NDK)
+        env:
+          ANDROID_SDK_ROOT: ${{ env.ANDROID_SDK_ROOT }}
+          ANDROID_HOME: ${{ env.ANDROID_HOME }}
         run: |
           sdkmanager --version
           yes | sdkmanager --licenses
@@ -49,6 +53,9 @@ jobs:
             "platforms;android-33" \
             "build-tools;33.0.2" \
             "ndk;25.2.9519653"
+
+          echo "Installed build-tools:"
+          ls -la "$ANDROID_SDK_ROOT/build-tools" || true
 
       - name: Install Buildozer and Cython
         run: |
@@ -61,7 +68,7 @@ jobs:
             buildozer init
           fi
 
-      - name: Configure buildozer.spec (force using our SDK/NDK, pin build-tools)
+      - name: Configure buildozer.spec (pin + force paths)
         run: |
           sed -i 's/^title = .*/title = Turkish Cards/' buildozer.spec
           sed -i 's/^package.name = .*/package.name = turkishcards/' buildozer.spec
@@ -70,7 +77,7 @@ jobs:
           sed -i 's/^orientation = .*/orientation = portrait/' buildozer.spec
           sed -i 's/^source.include_exts = .*/source.include_exts = py,png,jpg,kv,json/' buildozer.spec
 
-          # Pin API + build-tools so Buildozer won't try 36.x
+          # Pin versions so Buildozer won't try build-tools 36.x
           if grep -q '^android.api' buildozer.spec; then
             sed -i 's/^android.api = .*/android.api = 33/' buildozer.spec
           else
@@ -89,7 +96,7 @@ jobs:
             echo 'android.build_tools_version = 33.0.2' >> buildozer.spec
           fi
 
-          # ✅ Force Buildozer to use OUR SDK/NDK (not ~/.buildozer/... downloads)
+          # Force paths
           if grep -q '^android.sdk_path' buildozer.spec; then
             sed -i "s|^android.sdk_path = .*|android.sdk_path = $HOME/android-sdk|" buildozer.spec
           else
@@ -102,11 +109,27 @@ jobs:
             echo "android.ndk_path = $HOME/android-sdk/ndk/25.2.9519653" >> buildozer.spec
           fi
 
-      - name: Build APK
+          echo "==== buildozer.spec ===="
+          tail -n 60 buildozer.spec
+
+      # ✅ КЛЮЧ: перед сборкой вычищаем внутренний SDK Buildozer, чтобы он не пытался использовать его снова
+      - name: Remove Buildozer internal SDK cache
+        run: |
+          rm -rf "$HOME/.buildozer/android/platform/android-sdk" || true
+          rm -rf "$HOME/.buildozer/android/platform/android-ndk-r*" || true
+
+      - name: Build APK (force env SDK/NDK)
         env:
           ANDROID_SDK_ROOT: ${{ env.ANDROID_SDK_ROOT }}
-          ANDROID_HOME: ${{ env.ANDROID_SDK_ROOT }}
+          ANDROID_HOME: ${{ env.ANDROID_HOME }}
+          ANDROIDSDK: ${{ env.ANDROID_SDK_ROOT }}
+          ANDROIDNDK: ${{ env.ANDROID_SDK_ROOT }}/ndk/25.2.9519653
+          ANDROID_NDK_HOME: ${{ env.ANDROID_SDK_ROOT }}/ndk/25.2.9519653
+          ANDROIDAPI: "33"
         run: |
+          echo "ANDROID_SDK_ROOT=$ANDROID_SDK_ROOT"
+          echo "ANDROID_NDK_HOME=$ANDROID_NDK_HOME"
+          which aidl || true
           buildozer -v android debug
 
       - name: Upload APK
