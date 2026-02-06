@@ -36,7 +36,7 @@ jobs:
             buildozer init
           fi
 
-      - name: Configure buildozer.spec (pin API/build-tools)
+      - name: Configure buildozer.spec
         run: |
           sed -i 's/^title = .*/title = Turkish Cards/' buildozer.spec
           sed -i 's/^package.name = .*/package.name = turkishcards/' buildozer.spec
@@ -45,29 +45,17 @@ jobs:
           sed -i 's/^orientation = .*/orientation = portrait/' buildozer.spec
           sed -i 's/^source.include_exts = .*/source.include_exts = py,png,jpg,kv,json/' buildozer.spec
 
-          # pin Android API and build-tools (helps p4a choose stable toolchain)
-          if grep -q '^android.api' buildozer.spec; then
-            sed -i 's/^android.api = .*/android.api = 33/' buildozer.spec
-          else
-            echo 'android.api = 33' >> buildozer.spec
-          fi
+      # ✅ Ключевой шаг: заранее “принять” лицензии в SDK Buildozer’а
+      - name: Pre-accept Android SDK licenses for Buildozer SDK
+        run: |
+          SDK="$HOME/.buildozer/android/platform/android-sdk"
+          mkdir -p "$SDK/licenses"
+          echo "8933bad161af4178b1185d1a37fbf41ea5269c55" > "$SDK/licenses/android-sdk-license"
+          echo "d56f5187479451eabf01fb78af6dfcb131a6481e" >> "$SDK/licenses/android-sdk-license"
+          echo "84831b9409646a918e30573bab4c9c91346d8abd" > "$SDK/licenses/android-sdk-preview-license"
+          echo "33b6a2b64607f11b759f320ef9dff4ae5c47d97a" > "$SDK/licenses/google-gdk-license"
 
-          if grep -q '^android.minapi' buildozer.spec; then
-            sed -i 's/^android.minapi = .*/android.minapi = 21/' buildozer.spec
-          else
-            echo 'android.minapi = 21' >> buildozer.spec
-          fi
-
-          if grep -q '^android.build_tools_version' buildozer.spec; then
-            sed -i 's/^android.build_tools_version = .*/android.build_tools_version = 33.0.2/' buildozer.spec
-          else
-            echo 'android.build_tools_version = 33.0.2' >> buildozer.spec
-          fi
-
-      - name: Build APK (auto-accept licenses for Buildozer SDK)
-        env:
-          BUILDOZER_ANDROID_ACCEPT_SDK_LICENSE: "1"
-          P4A_ACCEPT_LICENSES: "1"
+      - name: Build APK
         run: |
           buildozer -v android debug
 
