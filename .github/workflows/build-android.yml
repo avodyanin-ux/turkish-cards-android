@@ -8,52 +8,55 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: "3.10"
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
 
-    - name: Install system dependencies
-      run: |
-        sudo apt update
-        sudo apt install -y \
-          zip unzip openjdk-17-jdk \
-          build-essential autoconf automake libtool pkg-config \
-          libffi-dev libssl-dev
-  
-    - name: Install Buildozer
-      run: |
-        python -m pip install --upgrade pip
-        pip install buildozer cython
+      - name: Install system dependencies
+        run: |
+          sudo apt update
+          sudo apt install -y \
+            zip unzip git \
+            openjdk-17-jdk \
+            build-essential autoconf automake libtool pkg-config \
+            libffi-dev libssl-dev
 
-    - name: Initialize buildozer.spec
-      run: |
-        buildozer init
-        
-    - name: Install Android SDK components
-      run: |
-        yes | sdkmanager --licenses
-        sdkmanager "platform-tools" "platforms;android-33" "build-tools;33.0.2"
-        
-    - name: Configure buildozer.spec
-      run: |
-        sed -i 's/^title = .*/title = Turkish Cards/' buildozer.spec
-        sed -i 's/^package.name = .*/package.name = turkishcards/' buildozer.spec
-        sed -i 's/^package.domain = .*/package.domain = org.turkish/' buildozer.spec
-        sed -i 's/^requirements = .*/requirements = python3,kivy/' buildozer.spec
-        sed -i 's/^orientation = .*/orientation = portrait/' buildozer.spec
-        sed -i 's/^source.include_exts = .*/source.include_exts = py,png,jpg,kv,json/' buildozer.spec
+      - name: Install Buildozer and Cython
+        run: |
+          python -m pip install --upgrade pip
+          pip install buildozer cython
 
-            - name: Build APK
-      run: |
-        buildozer -v android debug
+      # ВАЖНО: ставим Android SDK компоненты (включая aidl через build-tools)
+      - name: Install Android SDK components
+        run: |
+          yes | sdkmanager --licenses
+          sdkmanager "platform-tools" "platforms;android-33" "build-tools;33.0.2"
 
-    - name: Upload APK
-      uses: actions/upload-artifact@v4
-      with:
-        name: turkish-cards-apk
-        path: bin/*.apk
+      - name: Initialize buildozer.spec (if missing)
+        run: |
+          if [ ! -f buildozer.spec ]; then
+            buildozer init
+          fi
 
+      - name: Configure buildozer.spec
+        run: |
+          sed -i 's/^title = .*/title = Turkish Cards/' buildozer.spec
+          sed -i 's/^package.name = .*/package.name = turkishcards/' buildozer.spec
+          sed -i 's/^package.domain = .*/package.domain = org.turkish/' buildozer.spec
+          sed -i 's/^requirements = .*/requirements = python3,kivy/' buildozer.spec
+          sed -i 's/^orientation = .*/orientation = portrait/' buildozer.spec
+          sed -i 's/^source.include_exts = .*/source.include_exts = py,png,jpg,kv,json/' buildozer.spec
+
+      - name: Build APK
+        run: |
+          buildozer -v android debug
+
+      - name: Upload APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: turkish-cards-apk
+          path: bin/*.apk
