@@ -23,6 +23,11 @@ jobs:
           zip unzip openjdk-17-jdk \
           build-essential autoconf automake libtool pkg-config \
           libffi-dev libssl-dev
+          
+    - name: Install Android SDK components
+      run: |
+        yes | sdkmanager --licenses
+        sdkmanager "platform-tools" "platforms;android-33" "build-tools;33.0.2"
 
     - name: Install Buildozer
       run: |
