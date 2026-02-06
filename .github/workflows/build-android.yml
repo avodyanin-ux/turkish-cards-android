@@ -54,6 +54,32 @@ jobs:
           echo "d56f5187479451eabf01fb78af6dfcb131a6481e" >> "$SDK/licenses/android-sdk-license"
           echo "84831b9409646a918e30573bab4c9c91346d8abd" > "$SDK/licenses/android-sdk-preview-license"
           echo "33b6a2b64607f11b759f320ef9dff4ae5c47d97a" > "$SDK/licenses/google-gdk-license"
+      - name: Install cmdline-tools (sdkmanager) into Buildozer SDK path
+        run: |
+          SDK="$HOME/.buildozer/android/platform/android-sdk"
+          mkdir -p "$SDK/cmdline-tools"
+          cd "$SDK"
+
+          # Ставим cmdline-tools (sdkmanager)
+          wget -q https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip -O cmdline-tools.zip
+          unzip -q cmdline-tools.zip
+          rm -f cmdline-tools.zip
+
+          # Структура: cmdline-tools/latest/...
+          mkdir -p "$SDK/cmdline-tools/latest"
+          mv cmdline-tools/* "$SDK/cmdline-tools/latest/" || true
+          rmdir cmdline-tools || true
+
+          # Buildozer иногда ожидает sdkmanager в tools/bin — делаем совместимость
+          mkdir -p "$SDK/tools/bin"
+          ln -sf "$SDK/cmdline-tools/latest/bin/sdkmanager" "$SDK/tools/bin/sdkmanager"
+
+          # на всякий: platform-tools в PATH для adb (не критично)
+          echo "$SDK/platform-tools" >> $GITHUB_PATH
+
+          # диагностика
+          ls -la "$SDK/tools/bin" || true
+          "$SDK/tools/bin/sdkmanager" --version
 
       - name: Build APK
         run: |
