@@ -1,0 +1,9282 @@
+[
+  {
+    "tr": "getirmek",
+    "ru": [
+      "приносить"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "götürmek",
+    "ru": [
+      "уносить"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "taşımak",
+    "ru": [
+      "носить",
+      "перевозить"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bırakmak",
+    "ru": [
+      "оставлять",
+      "бросать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "seçmek",
+    "ru": [
+      "выбирать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "denemek",
+    "ru": [
+      "пробовать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kazanmak",
+    "ru": [
+      "зарабатывать",
+      "выигрывать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kaybetmek",
+    "ru": [
+      "терять",
+      "проигрывать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yardım etmek",
+    "ru": [
+      "помогать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "devam etmek",
+    "ru": [
+      "продолжать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bitmek",
+    "ru": [
+      "заканчиваться"
+    ],
+    "interval": 1,
+    "correct": 1,
+    "stage": 0,
+    "streak": 1,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "başarmak",
+    "ru": [
+      "достигать",
+      "успевать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "hazırlamak",
+    "ru": [
+      "готовить",
+      "подготавливать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kontrol etmek",
+    "ru": [
+      "проверять"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kapatmak",
+    "ru": [
+      "закрывать",
+      "выключать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "açmak",
+    "ru": [
+      "открывать"
+    ],
+    "interval": 1,
+    "correct": 3,
+    "stage": 1,
+    "streak": 0,
+    "due": 1770463903,
+    "again": 0
+  },
+  {
+    "tr": "satın almak",
+    "ru": [
+      "покупать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "satmak",
+    "ru": [
+      "продавать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ödemek",
+    "ru": [
+      "платить"
+    ],
+    "interval": 1,
+    "correct": 1,
+    "stage": 0,
+    "streak": 1,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kullanılmak",
+    "ru": [
+      "использоваться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sokak",
+    "ru": [
+      "улица"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "cadde",
+    "ru": [
+      "проспект"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "mağaza",
+    "ru": [
+      "магазин"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "pazar",
+    "ru": [
+      "рынок"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "restoran",
+    "ru": [
+      "ресторан"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kafe",
+    "ru": [
+      "кафе"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "banka",
+    "ru": [
+      "банк"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "hastane",
+    "ru": [
+      "больница"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "eczane",
+    "ru": [
+      "аптека"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "otel",
+    "ru": [
+      "отель"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ofis",
+    "ru": [
+      "офис"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "park",
+    "ru": [
+      "парк"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "durak",
+    "ru": [
+      "остановка"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "istasyon",
+    "ru": [
+      "станция"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "havaalanı",
+    "ru": [
+      "аэропорт"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "oda",
+    "ru": [
+      "комната"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "mutfak",
+    "ru": [
+      "кухня"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "banyo",
+    "ru": [
+      "ванная"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kapı",
+    "ru": [
+      "дверь"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "pencere",
+    "ru": [
+      "окно"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "masa",
+    "ru": [
+      "стол"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sandalye",
+    "ru": [
+      "стул"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yatak",
+    "ru": [
+      "кровать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "dolap",
+    "ru": [
+      "шкаф"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "lamba",
+    "ru": [
+      "лампа"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "anne",
+    "ru": [
+      "мать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "baba",
+    "ru": [
+      "отец"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kardeş",
+    "ru": [
+      "брат",
+      "сестра"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "eş",
+    "ru": [
+      "супруг",
+      "супруга"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "komşu",
+    "ru": [
+      "сосед"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "öğrenci",
+    "ru": [
+      "студент",
+      "ученик"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "öğretmen",
+    "ru": [
+      "учитель"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "doktor",
+    "ru": [
+      "врач"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "polis",
+    "ru": [
+      "полиция"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "müşteri",
+    "ru": [
+      "клиент"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "mutlu",
+    "ru": [
+      "счастливый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "üzgün",
+    "ru": [
+      "грустный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yorgun",
+    "ru": [
+      "уставший"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "hasta",
+    "ru": [
+      "больной"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sağlıklı",
+    "ru": [
+      "здоровый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "hazır",
+    "ru": [
+      "готовый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "meşgul",
+    "ru": [
+      "занятый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "aç",
+    "ru": [
+      "голодный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "tok",
+    "ru": [
+      "сытый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "temiz",
+    "ru": [
+      "чистый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kirli",
+    "ru": [
+      "грязный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yakın",
+    "ru": [
+      "близкий"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "uzak",
+    "ru": [
+      "далёкий"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "pahalı",
+    "ru": [
+      "дорогой"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ucuz",
+    "ru": [
+      "дешёвый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kolayca",
+    "ru": [
+      "легко"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "zorla",
+    "ru": [
+      "с трудом"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sık sık",
+    "ru": [
+      "часто"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "nadiren",
+    "ru": [
+      "редко"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "genellikle",
+    "ru": [
+      "обычно"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "henüz",
+    "ru": [
+      "ещё не"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "zaten",
+    "ru": [
+      "уже"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "artık",
+    "ru": [
+      "больше не",
+      "уже"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "eğer",
+    "ru": [
+      "если"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bu yüzden",
+    "ru": [
+      "поэтому"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "örneğin",
+    "ru": [
+      "например"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yani",
+    "ru": [
+      "то есть"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ayrıca",
+    "ru": [
+      "кроме того"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "olmak",
+    "ru": [
+      "быть",
+      "становиться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "demek",
+    "ru": [
+      "говорить",
+      "значить"
+    ],
+    "interval": 1,
+    "correct": 1,
+    "stage": 0,
+    "streak": 1,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "gelmek",
+    "ru": [
+      "приходить",
+      "приезжать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "gitmek",
+    "ru": [
+      "идти",
+      "ехать",
+      "уходить"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yapmak",
+    "ru": [
+      "делать",
+      "создавать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "almak",
+    "ru": [
+      "брать",
+      "покупать",
+      "получать"
+    ],
+    "interval": 1,
+    "correct": 1,
+    "stage": 0,
+    "streak": 1,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "vermek",
+    "ru": [
+      "давать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bilmek",
+    "ru": [
+      "знать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "istemek",
+    "ru": [
+      "хотеть"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "görmek",
+    "ru": [
+      "видеть"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kalmak",
+    "ru": [
+      "оставаться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bulmak",
+    "ru": [
+      "находить"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "çıkmak",
+    "ru": [
+      "выходить"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "girmek",
+    "ru": [
+      "входить"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yaşamak",
+    "ru": [
+      "жить"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "çalışmak",
+    "ru": [
+      "работать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "konuşmak",
+    "ru": [
+      "говорить",
+      "разговаривать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "anlamak",
+    "ru": [
+      "понимать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "düşünmek",
+    "ru": [
+      "думать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "söylemek",
+    "ru": [
+      "сказать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bakmak",
+    "ru": [
+      "смотреть"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sormak",
+    "ru": [
+      "спрашивать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "beklemek",
+    "ru": [
+      "ждать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yemek",
+    "ru": [
+      "есть",
+      "еда"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "içmek",
+    "ru": [
+      "пить"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "uyumak",
+    "ru": [
+      "спать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "uyanmak",
+    "ru": [
+      "просыпаться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "oturmak",
+    "ru": [
+      "сидеть",
+      "жить"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "durmak",
+    "ru": [
+      "стоять",
+      "останавливаться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yürümek",
+    "ru": [
+      "идти пешком"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "koşmak",
+    "ru": [
+      "бежать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "aramak",
+    "ru": [
+      "искать",
+      "звонить"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "okumak",
+    "ru": [
+      "читать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yazmak",
+    "ru": [
+      "писать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "dinlemek",
+    "ru": [
+      "слушать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "izlemek",
+    "ru": [
+      "смотреть (фильм, ТВ)",
+      "отслеживать",
+      "следить"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sevmek",
+    "ru": [
+      "любить"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kullanmak",
+    "ru": [
+      "использовать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "öğrenmek",
+    "ru": [
+      "учить",
+      "изучать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "öğretmek",
+    "ru": [
+      "обучать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "başlamak",
+    "ru": [
+      "начинать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bitirmek",
+    "ru": [
+      "заканчивать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "insan",
+    "ru": [
+      "человек"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "şey",
+    "ru": [
+      "вещь"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "zaman",
+    "ru": [
+      "время"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yer",
+    "ru": [
+      "место"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "hayat",
+    "ru": [
+      "жизнь"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "dünya",
+    "ru": [
+      "мир"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "iş",
+    "ru": [
+      "работа",
+      "дело"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "para",
+    "ru": [
+      "деньги"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "aile",
+    "ru": [
+      "семья"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "arkadaş",
+    "ru": [
+      "друг"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ev",
+    "ru": [
+      "дом"
+    ],
+    "interval": 1,
+    "correct": 1,
+    "stage": 0,
+    "streak": 1,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yol",
+    "ru": [
+      "дорога",
+      "путь"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "okul",
+    "ru": [
+      "школа"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "şehir",
+    "ru": [
+      "город"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ülke",
+    "ru": [
+      "страна"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "gün",
+    "ru": [
+      "день"
+    ],
+    "interval": 1,
+    "correct": 1,
+    "stage": 0,
+    "streak": 1,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yıl",
+    "ru": [
+      "год"
+    ],
+    "interval": 1,
+    "correct": 1,
+    "stage": 0,
+    "streak": 1,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "çocuk",
+    "ru": [
+      "ребёнок"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kadın",
+    "ru": [
+      "женщина"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "erkek",
+    "ru": [
+      "мужчина"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "su",
+    "ru": [
+      "вода"
+    ],
+    "interval": 1,
+    "correct": 1,
+    "stage": 0,
+    "streak": 1,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ekmek",
+    "ru": [
+      "хлеб"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kahve",
+    "ru": [
+      "кофе"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "çay",
+    "ru": [
+      "чай"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "baş",
+    "ru": [
+      "голова"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "el",
+    "ru": [
+      "рука"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "göz",
+    "ru": [
+      "глаз"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kalp",
+    "ru": [
+      "сердце"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "iyi",
+    "ru": [
+      "хороший",
+      "хорошо"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kötü",
+    "ru": [
+      "плохой",
+      "плохо"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "büyük",
+    "ru": [
+      "большой"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "küçük",
+    "ru": [
+      "маленький"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yeni",
+    "ru": [
+      "новый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "eski",
+    "ru": [
+      "старый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "uzun",
+    "ru": [
+      "длинный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kısa",
+    "ru": [
+      "короткий"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "çok",
+    "ru": [
+      "очень",
+      "много"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "az",
+    "ru": [
+      "мало"
+    ],
+    "interval": 1,
+    "correct": 1,
+    "stage": 0,
+    "streak": 1,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "erken",
+    "ru": [
+      "рано"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "geç",
+    "ru": [
+      "поздно"
+    ],
+    "interval": 1,
+    "correct": 2,
+    "stage": 0,
+    "streak": 2,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "şimdi",
+    "ru": [
+      "сейчас"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bugün",
+    "ru": [
+      "сегодня"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yarın",
+    "ru": [
+      "завтра"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "dün",
+    "ru": [
+      "вчера"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "var",
+    "ru": [
+      "есть"
+    ],
+    "interval": 1,
+    "correct": 1,
+    "stage": 0,
+    "streak": 1,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yok",
+    "ru": [
+      "нет"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ve",
+    "ru": [
+      "и"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ama",
+    "ru": [
+      "но"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "çünkü",
+    "ru": [
+      "потому что"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ile",
+    "ru": [
+      "с"
+    ],
+    "interval": 1,
+    "correct": 1,
+    "stage": 0,
+    "streak": 1,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "için",
+    "ru": [
+      "для"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "gibi",
+    "ru": [
+      "как"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kadar",
+    "ru": [
+      "до",
+      "настолько"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sonra",
+    "ru": [
+      "после"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "önce",
+    "ru": [
+      "до"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "burada",
+    "ru": [
+      "здесь"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "orada",
+    "ru": [
+      "там"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "her",
+    "ru": [
+      "каждый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bazı",
+    "ru": [
+      "некоторые"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "hep",
+    "ru": [
+      "всегда"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bazen",
+    "ru": [
+      "иногда"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "belki",
+    "ru": [
+      "возможно"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "lütfen",
+    "ru": [
+      "пожалуйста"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "evet",
+    "ru": [
+      "да"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "hayır",
+    "ru": [
+      "нет"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "tanışmak",
+    "ru": [
+      "знакомиться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "vedalaşmak",
+    "ru": [
+      "прощаться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "tartışmak",
+    "ru": [
+      "обсуждать",
+      "спорить"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "anlaşmak",
+    "ru": [
+      "договариваться",
+      "ладить"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "şikayet etmek",
+    "ru": [
+      "жаловаться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "teklif etmek",
+    "ru": [
+      "предлагать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kabul görmek",
+    "ru": [
+      "быть принятым",
+      "получать признание"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "reddedilmek",
+    "ru": [
+      "быть отклонённым"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "rica etmek",
+    "ru": [
+      "просить"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bilgilendirmek",
+    "ru": [
+      "информировать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "randevu",
+    "ru": [
+      "встреча",
+      "запись"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "hizmet",
+    "ru": [
+      "услуга"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sipariş",
+    "ru": [
+      "заказ"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "teslimat",
+    "ru": [
+      "доставка"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "fatura",
+    "ru": [
+      "счёт"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ödeme",
+    "ru": [
+      "платёж"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "indirim",
+    "ru": [
+      "скидка"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kampanya",
+    "ru": [
+      "акция"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "garanti",
+    "ru": [
+      "гарантия"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "trafik",
+    "ru": [
+      "движение",
+      "трафик"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "park etmek",
+    "ru": [
+      "парковаться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yolculuk",
+    "ru": [
+      "поездка",
+      "путешествие"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bilet",
+    "ru": [
+      "билет"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "taşıma",
+    "ru": [
+      "перевозка"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "gecikme",
+    "ru": [
+      "задержка"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "iptal",
+    "ru": [
+      "отмена"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "varış",
+    "ru": [
+      "прибытие"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kalkış",
+    "ru": [
+      "отправление"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "mesafe",
+    "ru": [
+      "расстояние"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "memnun",
+    "ru": [
+      "довольный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "rahatsız",
+    "ru": [
+      "недовольный",
+      "обеспокоенный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "uygun",
+    "ru": [
+      "подходящий"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "uygunsuz",
+    "ru": [
+      "неподходящий"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "etkili",
+    "ru": [
+      "эффективный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "etkisiz",
+    "ru": [
+      "неэффективный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yararlı",
+    "ru": [
+      "полезный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "zararlı",
+    "ru": [
+      "вредный",
+      "убыточный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "gerekli",
+    "ru": [
+      "необходимый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "gereksiz",
+    "ru": [
+      "ненужный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "özellikle",
+    "ru": [
+      "особенно"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "aynı zamanda",
+    "ru": [
+      "в то же время"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bu nedenle",
+    "ru": [
+      "по этой причине",
+      "поэтому"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "en azından",
+    "ru": [
+      "по крайней мере"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "çoğunlukla",
+    "ru": [
+      "в основном"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kısaca",
+    "ru": [
+      "короче говоря"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "detaylı",
+    "ru": [
+      "подробный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "genel olarak",
+    "ru": [
+      "в целом"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sonuç olarak",
+    "ru": [
+      "в итоге"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "başlangıç",
+    "ru": [
+      "начало"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bitiş",
+    "ru": [
+      "конец"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ilerleme",
+    "ru": [
+      "прогресс"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "seviye",
+    "ru": [
+      "уровень"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kalite",
+    "ru": [
+      "качество"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "miktar",
+    "ru": [
+      "количество"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "oran",
+    "ru": [
+      "соотношение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "hedef",
+    "ru": [
+      "цель"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "beklenti",
+    "ru": [
+      "ожидание"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "geri bildirim",
+    "ru": [
+      "обратная связь"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "çalıştırmak",
+    "ru": [
+      "запускать",
+      "приводить в действие"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "iptal etmek",
+    "ru": [
+      "отменять"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "onaylamak",
+    "ru": [
+      "подтверждать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "reddetmek",
+    "ru": [
+      "отказывать",
+      "отклонять",
+      "отвергать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kabul etmek",
+    "ru": [
+      "принимать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "katılmak",
+    "ru": [
+      "участвовать",
+      "присоединяться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ayrılmak",
+    "ru": [
+      "уходить",
+      "расставаться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "tamamlamak",
+    "ru": [
+      "завершать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "geliştirmek",
+    "ru": [
+      "развивать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "planlamak",
+    "ru": [
+      "планировать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "organize etmek",
+    "ru": [
+      "организовывать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "başvurmak",
+    "ru": [
+      "подавать заявку",
+      "обращаться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "incelemek",
+    "ru": [
+      "рассматривать",
+      "изучать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "karşılaştırmak",
+    "ru": [
+      "сравнивать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "belirlemek",
+    "ru": [
+      "определять"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "etkilemek",
+    "ru": [
+      "влиять"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "etkilenmek",
+    "ru": [
+      "подвергаться влиянию"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "gerekmek",
+    "ru": [
+      "быть необходимым"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "fikir",
+    "ru": [
+      "идея",
+      "мнение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bilgi",
+    "ru": [
+      "информация",
+      "знание"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "deneyim",
+    "ru": [
+      "опыт"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "amaç",
+    "ru": [
+      "цель"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sonuç",
+    "ru": [
+      "вывод",
+      "результат",
+      "итог"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "neden",
+    "ru": [
+      "причина"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "durum",
+    "ru": [
+      "ситуация"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "süre",
+    "ru": [
+      "длительность",
+      "срок"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "seçenek",
+    "ru": [
+      "вариант"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "karar",
+    "ru": [
+      "решение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "etki",
+    "ru": [
+      "влияние"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "değer",
+    "ru": [
+      "ценность",
+      "стоимость"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "fayda",
+    "ru": [
+      "польза"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "zarar",
+    "ru": [
+      "вред"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "risk",
+    "ru": [
+      "риск"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "fırsat",
+    "ru": [
+      "возможность"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sinirli",
+    "ru": [
+      "злой",
+      "раздражённый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sakin",
+    "ru": [
+      "спокойный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "heyecanlı",
+    "ru": [
+      "взволнованный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "korkulu",
+    "ru": [
+      "испуганный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "gururlu",
+    "ru": [
+      "гордый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "utangaç",
+    "ru": [
+      "застенчивый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "cesur",
+    "ru": [
+      "смелый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sabırlı",
+    "ru": [
+      "терпеливый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sabırsız",
+    "ru": [
+      "нетерпеливый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "önemli",
+    "ru": [
+      "важный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "mümkün",
+    "ru": [
+      "возможный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "imkansız",
+    "ru": [
+      "невозможный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "gerçek",
+    "ru": [
+      "реальный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yanlış",
+    "ru": [
+      "неправильный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "doğru",
+    "ru": [
+      "правильный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "basit",
+    "ru": [
+      "простой"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "karmaşık",
+    "ru": [
+      "сложный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "net",
+    "ru": [
+      "чёткий"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "genelde",
+    "ru": [
+      "обычно"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sonunda",
+    "ru": [
+      "в конце концов"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "öncelikle",
+    "ru": [
+      "прежде всего"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sonuçta",
+    "ru": [
+      "в итоге"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "neredeyse",
+    "ru": [
+      "почти"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "tamamen",
+    "ru": [
+      "полностью"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kısmen",
+    "ru": [
+      "частично"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "toplum",
+    "ru": [
+      "общество"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kültür",
+    "ru": [
+      "культура"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "eğitim",
+    "ru": [
+      "образование"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sağlık",
+    "ru": [
+      "здоровье"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "çevre",
+    "ru": [
+      "окружающая среда"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "doğa",
+    "ru": [
+      "природа"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ekonomi",
+    "ru": [
+      "экономика"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "teknoloji",
+    "ru": [
+      "технологии",
+      "технология"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "inanmak",
+    "ru": [
+      "верить"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "şüphe etmek",
+    "ru": [
+      "сомневаться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "savunmak",
+    "ru": [
+      "защищать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "eleştirmek",
+    "ru": [
+      "критиковать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "desteklemek",
+    "ru": [
+      "поддерживать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ikna etmek",
+    "ru": [
+      "убеждать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "itiraf etmek",
+    "ru": [
+      "признавать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "vurgulamak",
+    "ru": [
+      "подчёркивать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bahsetmek",
+    "ru": [
+      "упоминать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "anlaşılmak",
+    "ru": [
+      "быть понятым"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yanıtlamak",
+    "ru": [
+      "отвечать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "görüş",
+    "ru": [
+      "точка зрения",
+      "мнение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "inanç",
+    "ru": [
+      "вера",
+      "убеждение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "şüphe",
+    "ru": [
+      "сомнение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kanıt",
+    "ru": [
+      "доказательство"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "iddia",
+    "ru": [
+      "утверждение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "tartışma",
+    "ru": [
+      "обсуждение",
+      "дискуссия"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "eleştiri",
+    "ru": [
+      "критика"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "destek",
+    "ru": [
+      "поддержка"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "itiraz",
+    "ru": [
+      "возражение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yanıt",
+    "ru": [
+      "ответ"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "açıklama",
+    "ru": [
+      "объяснение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "örnek",
+    "ru": [
+      "пример"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "mantıklı",
+    "ru": [
+      "логичный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "mantıksız",
+    "ru": [
+      "нелогичный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ikna edici",
+    "ru": [
+      "убедительный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "geçerli",
+    "ru": [
+      "обоснованный",
+      "действительный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "geçersiz",
+    "ru": [
+      "недействительный",
+      "необоснованный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "tarafsız",
+    "ru": [
+      "нейтральный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "öznel",
+    "ru": [
+      "субъективный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "nesnel",
+    "ru": [
+      "объективный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "açık",
+    "ru": [
+      "ясный",
+      "открытый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kapalı",
+    "ru": [
+      "закрытый",
+      "неясный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "buna rağmen",
+    "ru": [
+      "несмотря на это"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "aksi halde",
+    "ru": [
+      "иначе"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kısacası",
+    "ru": [
+      "короче говоря"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yayınlamak",
+    "ru": [
+      "публиковать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "paylaşmak",
+    "ru": [
+      "делиться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "duyurmak",
+    "ru": [
+      "объявлять"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bildirmek",
+    "ru": [
+      "сообщать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "araştırmak",
+    "ru": [
+      "исследовать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "karar vermek",
+    "ru": [
+      "принимать решение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "tercih etmek",
+    "ru": [
+      "предпочитать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kaçınmak",
+    "ru": [
+      "избегать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "katlanmak",
+    "ru": [
+      "терпеть"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kabullenmek",
+    "ru": [
+      "принимать",
+      "смиряться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "haber",
+    "ru": [
+      "новость"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bilgi kaynağı",
+    "ru": [
+      "источник информации"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "araştırma",
+    "ru": [
+      "исследование"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "inceleme",
+    "ru": [
+      "обзор",
+      "анализ"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "veri",
+    "ru": [
+      "данные"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "istatistik",
+    "ru": [
+      "статистика"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "rapor",
+    "ru": [
+      "отчёт"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "başlık",
+    "ru": [
+      "заголовок"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "içerik",
+    "ru": [
+      "содержание",
+      "контент"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yorum",
+    "ru": [
+      "комментарий"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "görsel",
+    "ru": [
+      "изображение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "tercih",
+    "ru": [
+      "выбор",
+      "предпочтение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "önem",
+    "ru": [
+      "значимость"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "öncelik",
+    "ru": [
+      "приоритет"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "olasılık",
+    "ru": [
+      "вероятность"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ihtimal",
+    "ru": [
+      "вероятность"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "güncel",
+    "ru": [
+      "актуальный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "resmi",
+    "ru": [
+      "официальный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "gayriresmi",
+    "ru": [
+      "неофициальный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "güvenilir",
+    "ru": [
+      "надёжный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "şüpheli",
+    "ru": [
+      "сомнительный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "etkileyici",
+    "ru": [
+      "впечатляющий"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "önemsiz",
+    "ru": [
+      "незначительный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "beklenmedik",
+    "ru": [
+      "неожиданный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "olumlu",
+    "ru": [
+      "положительный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "olumsuz",
+    "ru": [
+      "отрицательный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "itiraz etmek",
+    "ru": [
+      "возражать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "katkıda bulunmak",
+    "ru": [
+      "вносить вклад"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "üstlenmek",
+    "ru": [
+      "брать на себя"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sürdürmek",
+    "ru": [
+      "продолжать",
+      "поддерживать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sona ermek",
+    "ru": [
+      "заканчиваться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "neden olmak",
+    "ru": [
+      "становиться причиной"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bağlantılı olmak",
+    "ru": [
+      "быть связанным"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yaklaşım",
+    "ru": [
+      "подход"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "strateji",
+    "ru": [
+      "стратегия"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sorumluluk",
+    "ru": [
+      "ответственность"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yetki",
+    "ru": [
+      "полномочие"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "hak",
+    "ru": [
+      "право"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yükümlülük",
+    "ru": [
+      "обязанность"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "şart",
+    "ru": [
+      "условие"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "koşul",
+    "ru": [
+      "условие"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "etken",
+    "ru": [
+      "фактор"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "zorunlu",
+    "ru": [
+      "обязательный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "isteğe bağlı",
+    "ru": [
+      "необязательный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "verimsiz",
+    "ru": [
+      "неэффективный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sürdürülebilir",
+    "ru": [
+      "устойчивый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "tutarlı",
+    "ru": [
+      "последовательный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "çelişkili",
+    "ru": [
+      "противоречивый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "aksi takdirde",
+    "ru": [
+      "иначе"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "özetle",
+    "ru": [
+      "вкратце",
+      "подводя итог"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sonrasında",
+    "ru": [
+      "после этого"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sistem",
+    "ru": [
+      "система"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kurum",
+    "ru": [
+      "учреждение",
+      "институт"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "organizasyon",
+    "ru": [
+      "организация"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yönetim",
+    "ru": [
+      "управление"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "politika",
+    "ru": [
+      "политика"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "hukuk",
+    "ru": [
+      "право (юриспруденция)"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "adalet",
+    "ru": [
+      "справедливость"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "eşitlik",
+    "ru": [
+      "равенство"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "özgürlük",
+    "ru": [
+      "свобода"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sorumlu",
+    "ru": [
+      "ответственный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "uygulamak",
+    "ru": [
+      "применять"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "değerlendirmek",
+    "ru": [
+      "оценивать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yönetmek",
+    "ru": [
+      "управлять"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "denetlemek",
+    "ru": [
+      "аудировать",
+      "проверять",
+      "контролировать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "düzenlemek",
+    "ru": [
+      "упорядочивать",
+      "организовывать",
+      "регулировать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "iyileştirmek",
+    "ru": [
+      "улучшать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "azaltmak",
+    "ru": [
+      "уменьшать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "artırmak",
+    "ru": [
+      "увеличивать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "dengelemek",
+    "ru": [
+      "балансировать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "önermek",
+    "ru": [
+      "рекомендовать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "talep etmek",
+    "ru": [
+      "требовать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sağlamak",
+    "ru": [
+      "обеспечивать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "engellemek",
+    "ru": [
+      "предотвращать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "etkileşim",
+    "ru": [
+      "взаимодействие"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "odaklanmak",
+    "ru": [
+      "сосредотачиваться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "süreç",
+    "ru": [
+      "процесс"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "performans",
+    "ru": [
+      "эффективность",
+      "производительность"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "verim",
+    "ru": [
+      "эффективность",
+      "выработка"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kaynak",
+    "ru": [
+      "источник",
+      "ресурс"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "önlem",
+    "ru": [
+      "мера",
+      "предосторожность"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kriter",
+    "ru": [
+      "критерий"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "geri dönüş",
+    "ru": [
+      "обратная связь"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "problem",
+    "ru": [
+      "проблема"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "çözüm",
+    "ru": [
+      "решение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "başarılı",
+    "ru": [
+      "успешный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "başarısız",
+    "ru": [
+      "неудачный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ikincil",
+    "ru": [
+      "второстепенный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "acil",
+    "ru": [
+      "срочный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sürekli",
+    "ru": [
+      "постоянный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "böylece",
+    "ru": [
+      "таким образом"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bu sayede",
+    "ru": [
+      "благодаря этому"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "başvuru yapmak",
+    "ru": [
+      "подавать заявку"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sorumlu olmak",
+    "ru": [
+      "быть ответственным"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "etkileşim kurmak",
+    "ru": [
+      "взаимодействовать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "uyum sağlamak",
+    "ru": [
+      "адаптироваться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "gözlemlemek",
+    "ru": [
+      "наблюдать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "fark etmek",
+    "ru": [
+      "замечать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "öne çıkmak",
+    "ru": [
+      "выделяться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "geri çekilmek",
+    "ru": [
+      "отступать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "devreye girmek",
+    "ru": [
+      "вступать в действие"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "söz konusu olmak",
+    "ru": [
+      "идти о",
+      "касаться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ortaya koymak",
+    "ru": [
+      "выдвигать",
+      "демонстрировать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "şekil almak",
+    "ru": [
+      "принимать форму"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yol açmak",
+    "ru": [
+      "приводить к"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "gözden geçirmek",
+    "ru": [
+      "пересматривать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "uygulamada",
+    "ru": [
+      "применяться на практике",
+      "на практике"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ön plana çıkarmak",
+    "ru": [
+      "выдвигать на первый план"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "geri bildirim almak",
+    "ru": [
+      "получать обратную связь"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "karar aşaması",
+    "ru": [
+      "этап принятия решения"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sonlandırmak",
+    "ru": [
+      "завершать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "süreklilik",
+    "ru": [
+      "непрерывность"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "uyum",
+    "ru": [
+      "адаптация",
+      "согласованность"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "katılım",
+    "ru": [
+      "участие"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "erişim",
+    "ru": [
+      "доступ"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "şeffaflık",
+    "ru": [
+      "прозрачность"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "güvenilirlik",
+    "ru": [
+      "надёжность"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sorumluluk alanı",
+    "ru": [
+      "зона ответственности"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "etki düzeyi",
+    "ru": [
+      "уровень влияния"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "öncelik sırası",
+    "ru": [
+      "порядок приоритетов"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yapılandırma",
+    "ru": [
+      "структурирование"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "çerçevelendirme",
+    "ru": [
+      "формирование рамок"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "iş yükü",
+    "ru": [
+      "рабочая нагрузка"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "verimlilik artışı",
+    "ru": [
+      "рост эффективности"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "risk faktörü",
+    "ru": [
+      "фактор риска"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "olasılık oranı",
+    "ru": [
+      "вероятность"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "beklenen sonuç",
+    "ru": [
+      "ожидаемый результат"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "uzun vadeli hedef",
+    "ru": [
+      "долгосрочная цель"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kısa vadeli plan",
+    "ru": [
+      "краткосрочный план"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "stratejik karar",
+    "ru": [
+      "стратегическое решение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "operasyonel süreç",
+    "ru": [
+      "операционный процесс"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kapsayıcı",
+    "ru": [
+      "всеобъемлющий"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "uyarlanabilir",
+    "ru": [
+      "адаптируемый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ölçeklenebilir",
+    "ru": [
+      "масштабируемый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "güçlü",
+    "ru": [
+      "сильный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "zayıf",
+    "ru": [
+      "слабый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "istikrarsız",
+    "ru": [
+      "нестабильный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "esnek",
+    "ru": [
+      "гибкий"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "katı",
+    "ru": [
+      "жёсткий"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "belirsiz",
+    "ru": [
+      "неопределённый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "öncelikli",
+    "ru": [
+      "приоритетный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ölçülebilir",
+    "ru": [
+      "измеримый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "soyut",
+    "ru": [
+      "абстрактный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "somut",
+    "ru": [
+      "конкретный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "işlevsel",
+    "ru": [
+      "функциональный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "teorik",
+    "ru": [
+      "теоретический"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "pratik",
+    "ru": [
+      "практический"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "uyumlu",
+    "ru": [
+      "совместимый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bu kapsamda",
+    "ru": [
+      "в этих рамках"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "buna paralel olarak",
+    "ru": [
+      "параллельно с этим"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "öncelik olarak",
+    "ru": [
+      "в приоритетном порядке"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "uzun vadede",
+    "ru": [
+      "в долгосрочной перспективе"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kısa vadede",
+    "ru": [
+      "в краткосрочной перспективе"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "büyük ölçüde",
+    "ru": [
+      "в значительной степени"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "önem arz etmek",
+    "ru": [
+      "иметь значение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "doğrudan",
+    "ru": [
+      "напрямую"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "dolaylı olarak",
+    "ru": [
+      "косвенно"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "son tahlilde",
+    "ru": [
+      "в конечном счёте"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "gerektirmek",
+    "ru": [
+      "требовать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "varsaymak",
+    "ru": [
+      "предполагать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kanıtlamak",
+    "ru": [
+      "доказывать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "desteklenmek",
+    "ru": [
+      "поддерживаться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bağlanmak",
+    "ru": [
+      "быть связанным"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ilişkilendirmek",
+    "ru": [
+      "связывать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "tanımlamak",
+    "ru": [
+      "определять"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sınırlamak",
+    "ru": [
+      "ограничивать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "genişletmek",
+    "ru": [
+      "расширять"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "şekillendirmek",
+    "ru": [
+      "формировать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yönlendirmek",
+    "ru": [
+      "направлять"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "etkileşimde bulunmak",
+    "ru": [
+      "взаимодействовать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ortaya çıkmak",
+    "ru": [
+      "возникать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "geçerli olmak",
+    "ru": [
+      "быть действительным"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ilişki",
+    "ru": [
+      "отношение",
+      "связь"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "neden-sonuç",
+    "ru": [
+      "причинно-следственная связь"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "çerçeve",
+    "ru": [
+      "рамки",
+      "контекст"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kapsam",
+    "ru": [
+      "объём",
+      "охват"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sınır",
+    "ru": [
+      "граница",
+      "предел"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "tanım",
+    "ru": [
+      "определение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "varsayım",
+    "ru": [
+      "предположение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bağlı",
+    "ru": [
+      "зависимый",
+      "связанный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bağımsız",
+    "ru": [
+      "независимый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sınırlı",
+    "ru": [
+      "ограниченный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kapsamlı",
+    "ru": [
+      "всесторонний"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "belirleyici",
+    "ru": [
+      "определяющий"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "etkin",
+    "ru": [
+      "действенный",
+      "активный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "pasif",
+    "ru": [
+      "пассивный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "dolayısıyla",
+    "ru": [
+      "следовательно"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bu bağlamda",
+    "ru": [
+      "в этом контексте"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bunun sonucunda",
+    "ru": [
+      "в результате этого"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "aksine",
+    "ru": [
+      "наоборот",
+      "напротив"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "eş zamanlı olarak",
+    "ru": [
+      "одновременно"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "devlet",
+    "ru": [
+      "государство"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "hükümet",
+    "ru": [
+      "правительство"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kamu",
+    "ru": [
+      "общественный сектор"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "özel sektör",
+    "ru": [
+      "частный сектор"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kuruluş",
+    "ru": [
+      "организация",
+      "учреждение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "toplumsal",
+    "ru": [
+      "социальный",
+      "общественный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "politik",
+    "ru": [
+      "политический"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ekonomik",
+    "ru": [
+      "экономический"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "hukuki",
+    "ru": [
+      "правовой"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yürütmek",
+    "ru": [
+      "осуществлять",
+      "проводить"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "uyarlamak",
+    "ru": [
+      "адаптировать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "düzenlenmek",
+    "ru": [
+      "регулироваться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "denetlenmek",
+    "ru": [
+      "контролироваться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "onaylanmak",
+    "ru": [
+      "утверждаться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "uygulanmak",
+    "ru": [
+      "применяться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yürürlüğe girmek",
+    "ru": [
+      "вступать в силу"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "iptal edilmek",
+    "ru": [
+      "быть отменённым"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yasa",
+    "ru": [
+      "закон"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "düzenleme",
+    "ru": [
+      "регулирование"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "mekanizma",
+    "ru": [
+      "механизм"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yapı",
+    "ru": [
+      "структура"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "işleyiş",
+    "ru": [
+      "функционирование"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "resmi olarak",
+    "ru": [
+      "официально"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yasal olarak",
+    "ru": [
+      "юридически"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "teoride",
+    "ru": [
+      "в теории"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "gelişmek",
+    "ru": [
+      "развиваться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yenilemek",
+    "ru": [
+      "обновлять"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "tasarlamak",
+    "ru": [
+      "проектировать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "üretmek",
+    "ru": [
+      "производить"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "işlemek",
+    "ru": [
+      "обрабатывать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "hesaplamak",
+    "ru": [
+      "вычислять"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ölçmek",
+    "ru": [
+      "измерять"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "test etmek",
+    "ru": [
+      "тестировать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "analiz etmek",
+    "ru": [
+      "анализировать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yorumlamak",
+    "ru": [
+      "интерпретировать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bilim",
+    "ru": [
+      "наука"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "teknik",
+    "ru": [
+      "техника",
+      "метод"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "verimlilik",
+    "ru": [
+      "эффективность"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kapasite",
+    "ru": [
+      "мощность",
+      "вместимость"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "enerji",
+    "ru": [
+      "энергия"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "malzeme",
+    "ru": [
+      "материал"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "donanım",
+    "ru": [
+      "оборудование"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yazılım",
+    "ru": [
+      "программное обеспечение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "altyapı",
+    "ru": [
+      "инфраструктура"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "analiz",
+    "ru": [
+      "анализ"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "değerlendirme",
+    "ru": [
+      "оценка"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "karşılaştırma",
+    "ru": [
+      "сравнение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ölçüt",
+    "ru": [
+      "критерий"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bulgu",
+    "ru": [
+      "результат",
+      "обнаруженный факт",
+      "вывод"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "veri seti",
+    "ru": [
+      "набор данных"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bilimsel",
+    "ru": [
+      "научный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "teknolojik",
+    "ru": [
+      "технологический"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yenilikçi",
+    "ru": [
+      "инновационный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "verimli",
+    "ru": [
+      "эффективный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yansıtmak",
+    "ru": [
+      "отражать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "aktarmak",
+    "ru": [
+      "передавать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "temsil etmek",
+    "ru": [
+      "представлять"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yaymak",
+    "ru": [
+      "распространять"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "korumak",
+    "ru": [
+      "сохранять"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "değiştirmek",
+    "ru": [
+      "изменять"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "benimsemek",
+    "ru": [
+      "принимать",
+      "усваивать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "medya",
+    "ru": [
+      "медиа",
+      "СМИ"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sanat",
+    "ru": [
+      "искусство"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "edebiyat",
+    "ru": [
+      "литература"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "miras",
+    "ru": [
+      "наследие"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kimlik",
+    "ru": [
+      "идентичность"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "topluluk",
+    "ru": [
+      "сообщество"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "değerler",
+    "ru": [
+      "ценности"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "gelenek",
+    "ru": [
+      "традиция"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "alışkanlık",
+    "ru": [
+      "привычка"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yayın",
+    "ru": [
+      "публикация",
+      "эфир"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "platform",
+    "ru": [
+      "платформа"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "izleyici",
+    "ru": [
+      "зритель",
+      "аудитория"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "okuyucu",
+    "ru": [
+      "читатель"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "etki alanı",
+    "ru": [
+      "сфера влияния"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kültürel",
+    "ru": [
+      "культурный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sanatsal",
+    "ru": [
+      "художественный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yaratıcı",
+    "ru": [
+      "творческий"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "geleneksel",
+    "ru": [
+      "традиционный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "modern",
+    "ru": [
+      "современный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "hissetmek",
+    "ru": [
+      "чувствовать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "algılamak",
+    "ru": [
+      "воспринимать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "rahatlamak",
+    "ru": [
+      "расслабляться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "gerilmek",
+    "ru": [
+      "напрягаться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "üzülmek",
+    "ru": [
+      "расстраиваться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sevinmek",
+    "ru": [
+      "радоваться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "şaşırmak",
+    "ru": [
+      "удивляться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "endişelenmek",
+    "ru": [
+      "беспокоиться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "korkmak",
+    "ru": [
+      "бояться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "duygu",
+    "ru": [
+      "эмоция",
+      "чувство"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ruh hali",
+    "ru": [
+      "настроение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "davranış",
+    "ru": [
+      "поведение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "tepki",
+    "ru": [
+      "реакция"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "stres",
+    "ru": [
+      "стресс"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kaygı",
+    "ru": [
+      "тревога"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "motivasyon",
+    "ru": [
+      "мотивация"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "özgüven",
+    "ru": [
+      "уверенность в себе"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "empati",
+    "ru": [
+      "эмпатия"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "duygusal",
+    "ru": [
+      "эмоциональный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "duyarlı",
+    "ru": [
+      "чуткий"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "iyimser",
+    "ru": [
+      "оптимистичный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kötümser",
+    "ru": [
+      "пессимистичный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "gergin",
+    "ru": [
+      "напряжённый"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "rahat",
+    "ru": [
+      "спокойный",
+      "комфортный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "istihdam etmek",
+    "ru": [
+      "нанимать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "işten çıkarmak",
+    "ru": [
+      "увольнять"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yatırım yapmak",
+    "ru": [
+      "инвестировать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "finanse etmek",
+    "ru": [
+      "финансировать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "tasarruf etmek",
+    "ru": [
+      "экономить"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "harcamak",
+    "ru": [
+      "тратить"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "borçlanmak",
+    "ru": [
+      "влезать в долг"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kazandırmak",
+    "ru": [
+      "приносить прибыль"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "zarara uğramak",
+    "ru": [
+      "терпеть убытки"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "piyasa",
+    "ru": [
+      "рынок"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "şirket",
+    "ru": [
+      "компания"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "işveren",
+    "ru": [
+      "работодатель"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "çalışan",
+    "ru": [
+      "сотрудник"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "maaş",
+    "ru": [
+      "зарплата"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "gelir",
+    "ru": [
+      "доход"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "gider",
+    "ru": [
+      "расход"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bütçe",
+    "ru": [
+      "бюджет"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "vergi",
+    "ru": [
+      "налог"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sözleşme",
+    "ru": [
+      "договор"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "karlı",
+    "ru": [
+      "прибыльный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "istikrarlı",
+    "ru": [
+      "стабильный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "dalgalı",
+    "ru": [
+      "нестабильный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "korunmak",
+    "ru": [
+      "защищаться",
+      "сохраняться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "tüketmek",
+    "ru": [
+      "потреблять"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "azalmak",
+    "ru": [
+      "уменьшаться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "artmak",
+    "ru": [
+      "увеличиваться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "önlemek",
+    "ru": [
+      "предотвращать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "teşvik etmek",
+    "ru": [
+      "поощрять"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yasaklamak",
+    "ru": [
+      "запрещать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "iklim",
+    "ru": [
+      "климат"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "tüketim",
+    "ru": [
+      "потребление"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "üretim",
+    "ru": [
+      "производство"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "atık",
+    "ru": [
+      "отходы"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kirlilik",
+    "ru": [
+      "загрязнение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sürdürülebilirlik",
+    "ru": [
+      "устойчивое развитие"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "denge",
+    "ru": [
+      "баланс"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "çevresel",
+    "ru": [
+      "экологический"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "doğal",
+    "ru": [
+      "естественный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "küresel",
+    "ru": [
+      "глобальный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "yerel",
+    "ru": [
+      "местный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sonuç çıkarmak",
+    "ru": [
+      "делать вывод"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "değerlendirilmek",
+    "ru": [
+      "оцениваться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kanıtlanmak",
+    "ru": [
+      "быть доказанным"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "varsayılmak",
+    "ru": [
+      "считаться предполагаемым"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "gerekçelendirmek",
+    "ru": [
+      "обосновывать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "çürütmek",
+    "ru": [
+      "опровергать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "belirtmek",
+    "ru": [
+      "указывать",
+      "отмечать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "özetlemek",
+    "ru": [
+      "резюмировать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "gerekçe",
+    "ru": [
+      "обоснование"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "çıkarım",
+    "ru": [
+      "вывод"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "argüman",
+    "ru": [
+      "аргумент"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "mantık",
+    "ru": [
+      "логика"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "tutarlılık",
+    "ru": [
+      "последовательность"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "çelişki",
+    "ru": [
+      "противоречие"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bağlam",
+    "ru": [
+      "контекст"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ön kabul",
+    "ru": [
+      "предпосылка"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "mantıksal",
+    "ru": [
+      "логический"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bu durumda",
+    "ru": [
+      "в этом случае"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bununla birlikte",
+    "ru": [
+      "вместе с тем"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sonuç itibarıyla",
+    "ru": [
+      "в конечном итоге"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "raporlamak",
+    "ru": [
+      "отчитываться",
+      "составлять отчёт"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "belgelemek",
+    "ru": [
+      "документировать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kayıt altına almak",
+    "ru": [
+      "фиксировать",
+      "регистрировать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "sunmak",
+    "ru": [
+      "представлять",
+      "предлагать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "düzeltmek",
+    "ru": [
+      "исправлять"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "güncellemek",
+    "ru": [
+      "обновлять"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "belge",
+    "ru": [
+      "документ"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kayıt",
+    "ru": [
+      "запись"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "tablo",
+    "ru": [
+      "таблица"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "grafik",
+    "ru": [
+      "график"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "özet",
+    "ru": [
+      "резюме",
+      "краткое изложение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "tespit",
+    "ru": [
+      "констатация"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ayrıntılı",
+    "ru": [
+      "подробный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "özetleyici",
+    "ru": [
+      "обобщающий"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "karşılaştırmalı",
+    "ru": [
+      "сравнительный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "savunulmak",
+    "ru": [
+      "быть защищаемым"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ele alınmak",
+    "ru": [
+      "рассматриваться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "tartışılmak",
+    "ru": [
+      "обсуждаться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "vurgulanmak",
+    "ru": [
+      "подчёркиваться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "belirtilmek",
+    "ru": [
+      "указываться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "göz önünde bulundurmak",
+    "ru": [
+      "принимать во внимание"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "karşı çıkmak",
+    "ru": [
+      "возражать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "kabul edilmek",
+    "ru": [
+      "быть принятым"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "karşı görüş",
+    "ru": [
+      "противоположное мнение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bakış açısı",
+    "ru": [
+      "точка зрения"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "tartışmalı",
+    "ru": [
+      "спорный"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "eleştirel",
+    "ru": [
+      "критический"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "akademik",
+    "ru": [
+      "академический"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bu açıdan",
+    "ru": [
+      "с этой точки зрения"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "buna karşın",
+    "ru": [
+      "вопреки этому"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "öne sürmek",
+    "ru": [
+      "выдвигать (аргумент)"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "geçerliliğini yitirmek",
+    "ru": [
+      "терять силу"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "ön plana çıkmak",
+    "ru": [
+      "выходить на первый план"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "geri planda kalmak",
+    "ru": [
+      "оставаться на втором плане"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "dikkate almak",
+    "ru": [
+      "принимать во внимание"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "göz ardı etmek",
+    "ru": [
+      "игнорировать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "altını çizmek",
+    "ru": [
+      "подчёркивать"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "vazgeçmek",
+    "ru": [
+      "отказываться"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "tutum",
+    "ru": [
+      "позиция",
+      "отношение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bakış",
+    "ru": [
+      "взгляд"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "boyut",
+    "ru": [
+      "аспект",
+      "измерение"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "buna ek olarak",
+    "ru": [
+      "в дополнение к этому"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bu noktada",
+    "ru": [
+      "в этот момент",
+      "в этой точке"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "özellikle de",
+    "ru": [
+      "в особенности"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bununla bağlantılı olarak",
+    "ru": [
+      "в связи с этим"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "öte yandan",
+    "ru": [
+      "с другой стороны"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "bunun aksine",
+    "ru": [
+      "в отличие от этого"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  },
+  {
+    "tr": "aynı ölçüde",
+    "ru": [
+      "в равной степени"
+    ],
+    "interval": 1,
+    "correct": 0,
+    "stage": 0,
+    "streak": 0,
+    "due": 0,
+    "again": 0
+  }
+]
