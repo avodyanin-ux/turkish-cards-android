@@ -23,12 +23,7 @@ jobs:
           zip unzip openjdk-17-jdk \
           build-essential autoconf automake libtool pkg-config \
           libffi-dev libssl-dev
-          
-    - name: Install Android SDK components
-      run: |
-        yes | sdkmanager --licenses
-        sdkmanager "platform-tools" "platforms;android-33" "build-tools;33.0.2"
-
+  
     - name: Install Buildozer
       run: |
         python -m pip install --upgrade pip
@@ -37,7 +32,12 @@ jobs:
     - name: Initialize buildozer.spec
       run: |
         buildozer init
-
+        
+    - name: Install Android SDK components
+      run: |
+        yes | sdkmanager --licenses
+        sdkmanager "platform-tools" "platforms;android-33" "build-tools;33.0.2"
+        
     - name: Configure buildozer.spec
       run: |
         sed -i 's/^title = .*/title = Turkish Cards/' buildozer.spec
@@ -47,7 +47,7 @@ jobs:
         sed -i 's/^orientation = .*/orientation = portrait/' buildozer.spec
         sed -i 's/^source.include_exts = .*/source.include_exts = py,png,jpg,kv,json/' buildozer.spec
 
-    - name: Build APK
+            - name: Build APK
       run: |
         buildozer -v android debug
 
